@@ -7,3 +7,4 @@ List of elements we need:
 2. Food 
 3. water bottle
 4. A hat
+5. A sunscreen
